@@ -1,0 +1,11 @@
+java PokerTest s1 c4 h7 d10 s13
+java PokerTest s1 c4 h7 d10 s10
+java PokerTest s1 c10 c4 d10 d1
+java PokerTest s4 c5 d4 h4 d12
+java PokerTest c1 d2 h3 s4 s5  
+java PokerTest c13 d12 h11 s10 s1 
+java PokerTest c1 c4 c8 c13 c2 
+java PokerTest s1 c4 h7 d10 s13
+java PokerTest c4 d4 h4 s4 s8
+java PokerTest c2 c3 c4 c5 c1 
+java PokerTest c10 c11 c1 c12 c13
